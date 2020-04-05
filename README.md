@@ -6,32 +6,9 @@ Combine words using from multiple wordlists
 
 ## Example:
 There are 3 example wordlists as fruit.txt, color.txt, country.txt
+![](https://raw.githubusercontent.com/ozancetin/Wordlists-Concatenator/screenshoots/wordlists.png)
 
-fruit.txt:
-```
-Apple
-Apricot
-Avocado
-Banana
-.
-.
-```
-color.txt
-```
-Red
-Green
-Blue
-.
-.
-```
-country.txt
-```
-Turkey
-UnitedStates
-Netherlands
-.
-.
-```
+
 For example try to combine fruit.txt and color.txt:
 ```
 AppleRed
