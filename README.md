@@ -49,7 +49,7 @@ pip install more-itertools
 ## Installation
 
 ``` 
-git clone https://github.com/ozancetin
+git clone https://github.com/ozancetin/Wordlists-Concatenator Wordlists-Concatenator
 ```
 ## Differences Between wordcon.py and twoloopcon.py
 
