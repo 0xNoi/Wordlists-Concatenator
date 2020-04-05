@@ -34,8 +34,8 @@ AppleRedUnitedStates
 python wordcon.py wordlist1.txt wordlist2.txt
 python wordcon.py wordlist1.txt wordlist2.txt wordlist3.txt
 ```
-![demo](https://github.com/ozancetin/)
-![demo](https://github.com/ozancetin/)
+![](https://raw.githubusercontent.com/ozancetin/Wordlists-Concatenator/master/screenshots/1.png)
+![](https://raw.githubusercontent.com/ozancetin/Wordlists-Concatenator/master/screenshots/2.png)
 
 
 ```
