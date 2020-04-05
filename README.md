@@ -29,25 +29,20 @@ AppleRedUnitedStates
 .
 ```
 ## Usage: 
-
 ```
 python wordcon.py wordlist1.txt wordlist2.txt
 python wordcon.py wordlist1.txt wordlist2.txt wordlist3.txt
 ```
 ![](https://raw.githubusercontent.com/ozancetin/Wordlists-Concatenator/master/screenshots/1.png)
 ![](https://raw.githubusercontent.com/ozancetin/Wordlists-Concatenator/master/screenshots/2.png)
-
-
 ```
 python twoloopcon.py wordlist1.txt wordlist2.txt
 ```
 ## Requirements
-
 ```
 pip install more-itertools 
 ```
 ## Installation
-
 ``` 
 git clone https://github.com/ozancetin/Wordlists-Concatenator Wordlists-Concatenator
 ```
