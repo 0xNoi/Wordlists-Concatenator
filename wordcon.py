@@ -1,4 +1,4 @@
-#Created by @ozancetin > oriinal repo github
+#Created by @ozancetin > original repo github
 #DO NOT TRY TO COMBINE SUPER MASSIVE WORDLISTS TOGETHER!
 #DO NOT FORGET:
 #pip install more-itertools 
