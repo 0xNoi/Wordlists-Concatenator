@@ -61,6 +61,6 @@ twoloopcon.py is using nested 2 for loops which has more complexity than wordcon
 
 AVOID TO COMBINE MASSIVE MULTIPLE WORDLISTS TOGETHER
 
-for example do not use ``rockyou.txt + rockyou.txt`` it can be crash your computer.
+For example do not use ``rockyou.txt + rockyou.txt`` it can be crash your computer.
 
 If you still wanna use this concern about complexity and combination result, depends on your computer power and storage.
