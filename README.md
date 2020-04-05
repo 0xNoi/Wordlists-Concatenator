@@ -1,11 +1,10 @@
-# WORDLISTS-CONCATENATOR
+# Wordlists-Concatenator
 
 Basic Concatenating wordlists script-tool.
 
 Combine words using from multiple wordlists
 
 ## Example:
-
 There are 3 example wordlists as fruit.txt, color.txt, country.txt
 
 fruit.txt:
@@ -17,7 +16,6 @@ Banana
 .
 .
 ```
-
 color.txt
 ```
 Red
@@ -26,7 +24,6 @@ Blue
 .
 .
 ```
-
 country.txt
 ```
 Turkey
@@ -35,9 +32,7 @@ Netherlands
 .
 .
 ```
-
 For example try to combine fruit.txt and color.txt:
-
 ```
 AppleRed
 AppleGreen
@@ -47,18 +42,15 @@ ApricotGren
 .
 ... 
 ```
-
 Same thing for 3 wordlists combining as fruit.txt, color.txt, country.txt
-
 ```
 AppleRedTurkey
 AppleRedTurkey
 AppleRedTurkey
 AppleRedUnitedStates
 .
-...
+.
 ```
-
 ## Usage: 
 
 ```
@@ -72,26 +64,23 @@ python wordcon.py wordlist1.txt wordlist2.txt wordlist3.txt
 ```
 python twoloopcon.py wordlist1.txt wordlist2.txt
 ```
-
 ## Requirements
 
 ```
 pip install more-itertools 
 ```
-
 ## Installation
 
 ``` 
 git clone https://github.com/ozancetin
 ```
-
 ## Differences Between wordcon.py and twoloopcon.py
 
 wordcon.py is using itertools library which is good at combination algorithm stuff much more fast and efficient for it. Especially good at big wordlists.
 
 twoloopcon.py is using nested 2 for loops which has more complexity than wordcon.py, purpose of itertools lib issue if that happen you can use it. its slow than wordcon.py for big wordlists.
 
-## ATTENTION
+## ATTENTION!
 
 AVOID TO COMBINE MASSIVE WORDLISTS TOGETHER
 
