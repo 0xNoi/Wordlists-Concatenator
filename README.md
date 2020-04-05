@@ -1,6 +1,6 @@
 # Wordlists-Concatenator
 
-Basic Concatenating wordlists script-tool.
+Basic merged-concatenate wordlists script-tool.
 
 Combine words using from multiple wordlists
 
