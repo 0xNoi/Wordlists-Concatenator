@@ -22,9 +22,9 @@ ApricotGren
 Same thing for 3 wordlists combining as fruit.txt, color.txt, country.txt
 ```
 AppleRedTurkey
-AppleRedTurkey
-AppleRedTurkey
 AppleRedUnitedStates
+AppleRedNetherlands
+AppleGreenTurkey
 .
 .
 ```
